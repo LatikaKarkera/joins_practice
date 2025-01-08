@@ -10,7 +10,8 @@
 
 **BATCH DURATION**: DECEMBER 10TH 2024 TO JANUARY 10TH 2025
 
-**DESCRIPTION**:
+#DESCRIPTION:
+
 In this project, the goal was to demonstrate how different types of SQL joins can be used to combine data meaningfully from two related tables: students and departments. The project follows a set of instructions to implement INNER JOIN, LEFT JOIN, RIGHT JOIN, and FULL OUTER JOIN to merge data from these two tables in a meaningful way.
 
 Project Overview
@@ -40,3 +41,10 @@ The RIGHT JOIN made sure all departments were listed, even those without student
 The FULL OUTER JOIN combined both the LEFT JOIN and RIGHT JOIN, ensuring that all rows from both tables were included, with NULL values where no matching data existed.
 Conclusion
 Through this project, the various types of SQL joins were applied in accordance with the task instructions to combine data from the students and departments tables. By using INNER JOIN, LEFT JOIN, RIGHT JOIN, and FULL OUTER JOIN, the data was merged in different ways to retrieve meaningful results based on the specified conditions. Each join type addressed specific scenarios, such as showing all students, displaying all departments, or combining data where possible. This project effectively demonstrated the practical application of SQL joins for combining and manipulating data from related tables.
+
+#OUTPUT
+![Screenshot 2025-01-08 232319](https://github.com/user-attachments/assets/fbf950f4-3bbc-4bc7-94d4-7093b9b9a740)
+![Screenshot 2025-01-08 232336](https://github.com/user-attachments/assets/5c398cb6-5cc9-4e8a-a411-c4b6633ccedb)
+![Screenshot 2025-01-08 232349](https://github.com/user-attachments/assets/c836047b-db43-4e6c-92ad-aaa23ab5d624)
+![Screenshot 2025-01-08 232401](https://github.com/user-attachments/assets/a28723a7-8d7b-4baf-ada9-15de7e5ede99)
+
